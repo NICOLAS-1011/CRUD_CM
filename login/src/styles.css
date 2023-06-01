@@ -1,0 +1,26 @@
+/* ESTILO DE LOGIN  */
+html, body{
+    height: 100%;
+}
+
+.wrapper{
+    background-color: #f5f5f5;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.logo{
+    height: 130px;
+    margin-bottom: -18px;
+    
+}
+
+.body{
+    
+    max-width: 320px;
+    width: 100%;
+    text-align: center ;
+}
